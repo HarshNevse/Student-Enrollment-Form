@@ -75,9 +75,6 @@ This project is a web-based **Student Enrollment Form** that allows users to inp
 
 For detailed documentation on how to use JsonPowerDB, visit the official [JsonPowerDB documentation](https://login2explore.com/jpdb/docs.html).
 
-## License
-
-This project is licensed under the MIT License.
 
 ---
 
